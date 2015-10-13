@@ -40,6 +40,7 @@
 * [R](#R)
 * [Scala](#scala)
 * [SQL](#sql)
+* [SVG](#svg)
 
 
 ### Metalistas
@@ -107,7 +108,7 @@
 
 ### Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
-*[Curso Android: Todo lo que necesitas para empezar](http://www.maestrosdelweb.com/curso-android/) (HTML) by Adrian Catalán
+* [Curso Android: Todo lo que necesitas para empezar](http://www.maestrosdelweb.com/curso-android/) (HTML) by Adrian Catalán
 
 ### C
 * [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf)
@@ -116,6 +117,8 @@
 
 ### C++
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
+* [Aprenda C++ básico como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/ayudainf/aprendainf/Cpp/basico/cppbasico.pdf)
+* [Aprenda C++ avanzado como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf)
 
 
 ### CSS
@@ -139,7 +142,7 @@
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) en Wikibooks
 
 ### Emacs
-* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/hg/?group=elisp-es)
+* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es)
 
 ### Git
 * [Git Immersion en Español](http://gitimmersion.mx)
@@ -226,6 +229,8 @@
 
 
 ### Python
+* [Notas sobre el lenguaje Python] (http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/at_download/file) (GNU Free Documentation License) (PDF)
+* [Introducción a la programación con Python] (http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/Introduccion%20a%20la%20programacion%20con%20Python.pdf/at_download/file) © (PDF)
 * [Aprenda a pensar como un programador (con Python)](http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
@@ -280,3 +285,5 @@
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
 
 
+### SVG
+* [SCALABLE](https://leanpub.com/scalable/) (PDF) (EPUB) (MOBI)
